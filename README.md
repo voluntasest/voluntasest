@@ -12,4 +12,3 @@ Currently I have xp at:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" alt="python" width="40" height="40" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voluntasest)](https://github.com/voluntasest/github-readme-stats)
