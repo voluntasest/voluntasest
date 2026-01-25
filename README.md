@@ -22,3 +22,6 @@ Currently I have xp at:
   </a>
 </p>
 
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voluntasest&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="voluntasest" />
