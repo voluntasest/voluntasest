@@ -23,5 +23,6 @@ Currently I have xp at:
 </p>
 
 ---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=voluntasest&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=voluntasest&layout=compact&langs_count=4&theme=github_dark)
 
 
